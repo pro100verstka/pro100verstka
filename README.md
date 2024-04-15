@@ -18,10 +18,20 @@
 
 
 Технологии
+### Технологии
 
-соц сети
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="70" height="70" alt="HTML5" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="70" height="70" alt="CSS3" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="70" height="70" alt="JavaScript" />
+</p>
 
 
+### Социальные сети
+
+<a href="https://www.github.com/pro100verstka" target="_blank" > 
+<img src="assets/github.svg" width="90" height="90" /></a>
+<a href="https://vk.com/justlayout" target="_blank" > <img src="assets/vk.svg" width="90" height="90" /> </a>
 
 <!--
 **pro100verstka/pro100verstka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
