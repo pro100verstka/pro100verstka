@@ -1,4 +1,4 @@
-[![Header](https://sun9-23.userapi.com/daxriyVrz4gIaZn0r195FpOpwlm2qx-V6bQuIg/1tJKdPDUs3o.jpg)](https://vk.com/justlayout)
+[![Header](https://sun9-76.userapi.com/impf/rm6iy5TcgblH5eSL64FhQqB3CgrHhwsH7Izmcw/zqXhyeCH_0Y.jpg?size=911x364&quality=95&crop=205,0,1000,399&sign=45bf115007f4b8cc3a2c760d61a64aa4&type=cover_group)](https://vk.com/justlayout)
 
 Обо мне
 
