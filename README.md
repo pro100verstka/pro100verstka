@@ -26,7 +26,7 @@
 
 <a href="https://www.github.com/pro100verstka" target="_blank" > 
 <img src="assets/github.svg" width="90" height="90" /></a>
-<a href="https://vk.com/justlayout" target="_blank" > <img src="assets/vk.svg" width="90" height="90" /> </a>
+<a href="https://vk.com/pro100_verstka" target="_blank" > <img src="assets/vk.svg" width="90" height="90" /> </a>
 
 <a href="https://github.com/pro100verstka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro100verstka&langs_count=10&title_color=000000&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=" alt="Top Languages" /></a>
 
