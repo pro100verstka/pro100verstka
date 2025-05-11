@@ -1,6 +1,6 @@
 <div>
 	<a href="https://vk.com/justlayout">
-		<img src="assets/bunner.jpg" alt="">
+		<img src="assets/bunner.png" alt="">
 	</a>
 </div>
 
